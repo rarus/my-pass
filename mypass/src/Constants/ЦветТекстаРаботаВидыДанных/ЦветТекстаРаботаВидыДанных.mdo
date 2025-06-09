@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e9072d54-d818-4e34-9bef-7020a74d70e8">
+  <producedTypes>
+    <managerType typeId="2531b8b2-b013-42eb-a88e-b612ed351d4a" valueTypeId="da111061-6cf4-48e7-a9d2-b9f39af02dd6"/>
+    <valueManagerType typeId="fb1824f5-0116-4179-bff3-3795bbba83e9" valueTypeId="1e16b829-0991-423d-ae09-4facb07cb962"/>
+    <valueKeyType typeId="dd9fdfcc-534d-4d8f-b667-a599dc13c3f8" valueTypeId="79643377-c07c-4446-b89f-4db93537c8bc"/>
+  </producedTypes>
+  <name>ЦветТекстаРаботаВидыДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Цвет текста работа (виды данных)</value>
+  </synonym>
+  <type>
+    <types>ValueStorage</types>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

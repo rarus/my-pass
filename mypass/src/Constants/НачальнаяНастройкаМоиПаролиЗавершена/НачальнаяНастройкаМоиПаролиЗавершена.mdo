@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8571980f-1eb4-4475-9882-d18f313444ae">
+  <producedTypes>
+    <managerType typeId="1a2cd6ea-bb61-47b4-b75b-4287263db68a" valueTypeId="0ba9d084-9cdc-49a8-9b30-be0f670557d6"/>
+    <valueManagerType typeId="5bcfc287-fdee-4818-945b-42b0088136bf" valueTypeId="544eacc4-5a5a-49da-9dcb-4da16bf42bfc"/>
+    <valueKeyType typeId="719c378c-3848-4172-a1b8-952e99ba2aa4" valueTypeId="00fad753-dda7-4d92-bc2a-9a5abf1b57c7"/>
+  </producedTypes>
+  <name>НачальнаяНастройкаМоиПаролиЗавершена</name>
+  <synonym>
+    <key>ru</key>
+    <value>Начальная настройка &quot;Мои пароли&quot; завершена</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

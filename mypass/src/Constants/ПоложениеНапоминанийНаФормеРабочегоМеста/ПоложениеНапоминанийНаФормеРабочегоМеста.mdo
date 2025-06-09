@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4b05b852-af85-4c2b-9f20-61e6b3a205ff">
+  <producedTypes>
+    <managerType typeId="b8eaca86-1514-4673-8ec3-476b31796ccf" valueTypeId="af1a50f1-48aa-434c-a47f-1dc057bd2e94"/>
+    <valueManagerType typeId="909c5f1a-c399-4b2e-877b-d14253a131f0" valueTypeId="e86d29b6-fa07-48d0-a826-91a083f78375"/>
+    <valueKeyType typeId="2f57f80d-3626-42a1-8f2c-97a4ef6a04c1" valueTypeId="6c073996-b810-480b-a9d6-c4d2c84fce20"/>
+  </producedTypes>
+  <name>ПоложениеНапоминанийНаФормеРабочегоМеста</name>
+  <synonym>
+    <key>ru</key>
+    <value>Положение напоминаний на форме рабочего места</value>
+  </synonym>
+  <comment>0 - право; 1 - лево</comment>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>1</precision>
+      <nonNegative>true</nonNegative>
+    </numberQualifiers>
+  </type>
+  <explanation>
+    <key>ru</key>
+    <value>0 - право; 1 - лево</value>
+  </explanation>
+  <toolTip>
+    <key>ru</key>
+    <value>0 - право; 1 - лево</value>
+  </toolTip>
+  <minValue xsi:type="core:StringValue">
+    <value>0</value>
+  </minValue>
+  <maxValue xsi:type="core:StringValue">
+    <value>1</value>
+  </maxValue>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

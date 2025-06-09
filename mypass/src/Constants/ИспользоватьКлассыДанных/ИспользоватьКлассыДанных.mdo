@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a7ef0cad-12f5-47bf-93df-1941dba2cba6">
+  <producedTypes>
+    <managerType typeId="31b1ab06-afc6-448f-a9a3-125054f5ec4b" valueTypeId="090944a8-6ba7-442c-977c-155567ebfa34"/>
+    <valueManagerType typeId="140f5d98-6c18-478a-b8f7-7a34669633e5" valueTypeId="93804b68-178b-4a12-9823-dec619d04e2f"/>
+    <valueKeyType typeId="c9617b69-3da9-4540-817b-92858788f5a2" valueTypeId="2bcd7342-b3a0-44c5-b21d-a34914087438"/>
+  </producedTypes>
+  <name>ИспользоватьКлассыДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать классы данных</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

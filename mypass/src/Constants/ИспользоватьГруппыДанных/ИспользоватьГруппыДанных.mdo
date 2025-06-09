@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9250dcc1-ddf1-4714-bea5-1f172f8cbdb4">
+  <producedTypes>
+    <managerType typeId="1048f611-47d9-4556-890e-d3c042b8fc96" valueTypeId="8b6b458d-2be7-4736-b4d9-a839fd1bebcd"/>
+    <valueManagerType typeId="2f12566d-2127-4093-b044-e06d5ae3fe0b" valueTypeId="0e4e0ddb-2c29-464a-bc6b-50c0c0e4a842"/>
+    <valueKeyType typeId="0578b862-94ff-405b-9f3b-9a32fc158258" valueTypeId="638a5e21-76eb-4e33-bfcb-48a1a1f6a2f1"/>
+  </producedTypes>
+  <name>ИспользоватьГруппыДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать группы данных</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

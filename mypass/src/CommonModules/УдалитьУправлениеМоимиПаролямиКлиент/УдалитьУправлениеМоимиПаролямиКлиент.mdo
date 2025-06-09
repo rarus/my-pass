@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f894bb6f-f9ca-4774-99f5-19ea702cdb4c">
+  <name>УдалитьУправлениеМоимиПаролямиКлиент</name>
+  <synonym>
+    <key>ru</key>
+    <value>Удалить управление моими паролями клиент</value>
+  </synonym>
+  <comment>Клиентские процедуры и функции для управления моими паролями</comment>
+  <clientManagedApplication>true</clientManagedApplication>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

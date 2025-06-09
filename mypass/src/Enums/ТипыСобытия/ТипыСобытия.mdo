@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="22525ff8-a275-426a-9830-b2fcb0bb97cd">
+  <producedTypes>
+    <refType typeId="d6bb6ab0-c217-494f-a642-378ffafb5427" valueTypeId="f3711d76-85bf-4a25-aea3-5b8ce45889e3"/>
+    <listType typeId="5af4ca36-6933-44dd-b7a5-7bb1068cba00" valueTypeId="9c56ec21-c5bb-4e40-a551-e673bdd32a49"/>
+    <managerType typeId="06925238-3e3f-4239-87ef-f80ee9968fe4" valueTypeId="78e4250c-8fe8-434f-86dd-152d15273da6"/>
+  </producedTypes>
+  <name>ТипыСобытия</name>
+  <synonym>
+    <key>ru</key>
+    <value>Типы события</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="54e10e37-e862-4048-904a-282134717113">
+    <name>Копирование</name>
+    <synonym>
+      <key>ru</key>
+      <value>Копирование</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="13d8a398-e84a-4c41-ac7e-1405edea5482">
+    <name>Просмотр</name>
+    <synonym>
+      <key>ru</key>
+      <value>Просмотр</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="af644448-2b94-4449-8776-de96b9a931ca">
+    <name>Редактирование</name>
+    <synonym>
+      <key>ru</key>
+      <value>Редактирование</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="97cdaadb-7d41-49df-80a3-daa84bd5c4c8">
+    <name>Скачивание</name>
+    <synonym>
+      <key>ru</key>
+      <value>Скачивание</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

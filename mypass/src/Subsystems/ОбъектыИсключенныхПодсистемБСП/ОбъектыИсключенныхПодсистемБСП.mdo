@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8a1bdefc-35ec-40e7-add3-c262b995efdd">
+  <name>ОбъектыИсключенныхПодсистемБСП</name>
+  <synonym>
+    <key>ru</key>
+    <value>Объекты исключенных подсистем БСП</value>
+  </synonym>
+  <content>CommonPicture.ВертикальноеПоложениеВерх</content>
+  <content>CommonPicture.ВертикальноеПоложениеНиз</content>
+  <content>CommonPicture.ВертикальноеПоложениеЦентр</content>
+  <content>CommonPicture.ВставитьГруппировкуВыше</content>
+  <content>CommonPicture.ВставитьГруппировкуНиже</content>
+  <content>CommonPicture.ВставитьКолонкуСлева</content>
+  <content>CommonPicture.ВставитьКолонкуСправа</content>
+  <content>CommonPicture.ВыполнитьРегламентноеЗаданиеВручную</content>
+  <content>CommonPicture.ВысотаСтроки</content>
+  <content>CommonPicture.КоллекцияОбъектыМетаданных</content>
+  <content>CommonPicture.КонтактнаяИнформацияОтправитьЭлектронноеПисьмо</content>
+  <content>CommonPicture.МенюДополнительныеФункции</content>
+  <content>CommonPicture.ОтменитьДействие</content>
+  <content>CommonPicture.Отчеты</content>
+  <content>CommonPicture.ПереместитьВправоВниз</content>
+  <content>CommonPicture.ПовторитьДействие</content>
+  <content>CommonPicture.ПовторятьВКонцеСтраницы</content>
+  <content>CommonPicture.ПовторятьВНачалеСтраницы</content>
+  <content>CommonPicture.РежимИспользованияПриложенияВСервисеЛокально</content>
+  <content>CommonPicture.ШиринаКолонки</content>
+  <content>StyleItem.ГруппаВариантовОтчетовЦвет</content>
+  <content>StyleItem.ЦветФонаВнимание</content>
+</mdclass:Subsystem>

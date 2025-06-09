@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:StyleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2985c47c-6dcb-4cf2-b344-6edb7e1110ef">
+  <name>ЦветАкцентированияМоиПароли</name>
+  <synonym>
+    <key>ru</key>
+    <value>Цвет акцентирования (мои пароли)</value>
+  </synonym>
+  <value xsi:type="core:ColorValue">
+    <value xsi:type="core:ColorDef">
+      <red>223</red>
+      <green>128</green>
+      <blue>35</blue>
+    </value>
+  </value>
+</mdclass:StyleItem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonAttribute xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9aa35b70-96ab-44fe-840f-95458b904130">
+  <name>УдалитьИзменен</name>
+  <synonym>
+    <key>ru</key>
+    <value>Удалить изменен</value>
+  </synonym>
+  <type>
+    <types>Date</types>
+    <dateQualifiers/>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataHistory>Use</dataHistory>
+  <fillValue xsi:type="core:UndefinedValue"/>
+  <content>
+    <metadata>InformationRegister.ЖурналСобытий</metadata>
+    <use>Use</use>
+  </content>
+  <content>
+    <metadata>ChartOfCharacteristicTypes.СвойстваВидовДанных</metadata>
+    <use>Use</use>
+  </content>
+  <content>
+    <metadata>Document.ЭкземплярДоступа</metadata>
+    <use>Use</use>
+  </content>
+  <content>
+    <metadata>Catalog.Пользователи</metadata>
+    <use>Use</use>
+  </content>
+  <content>
+    <metadata>Catalog.ДополнительныеСвойства</metadata>
+    <use>Use</use>
+  </content>
+  <content>
+    <metadata>InformationRegister.МоиПароли</metadata>
+    <use>Use</use>
+  </content>
+  <content>
+    <metadata>Catalog.ГруппыДанных</metadata>
+    <use>Use</use>
+  </content>
+  <content>
+    <metadata>Catalog.ВидыДанных</metadata>
+    <use>Use</use>
+  </content>
+  <autoUse>DontUse</autoUse>
+  <dataSeparation>DontUse</dataSeparation>
+  <usersSeparation>DontUse</usersSeparation>
+  <authenticationSeparation>DontUse</authenticationSeparation>
+  <configurationExtensionsSeparation>DontUse</configurationExtensionsSeparation>
+  <fullTextSearch>Use</fullTextSearch>
+</mdclass:CommonAttribute>

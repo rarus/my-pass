@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="206beec3-81a2-4a23-a37e-d9e17411c6b5">
+  <producedTypes>
+    <objectType typeId="9a88f41a-41ef-43f2-b17a-936624d4c6d1" valueTypeId="4af37580-a719-4411-b496-3501331107d3"/>
+    <managerType typeId="8e4e5775-25de-4274-807a-405343c7f888" valueTypeId="d7e17ae6-40a0-46a4-8d56-9c36883cb6ed"/>
+  </producedTypes>
+  <name>МастерНачальнойНастройки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Мастер начальной настройки</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.МастерНачальнойНастройки.Form.Форма</defaultForm>
+  <explanation>
+    <key>ru</key>
+    <value>При помощи мастера можно выполнить начальную настройку Видов доступа и их свойств. Мастер автоматически запускается при первом старте программы. Может быть запущен позже вручную.</value>
+  </explanation>
+  <forms uuid="0c10f52a-c718-48e6-8dc6-ae5aa09b9de8">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="6716340d-bc45-4aa5-9678-69a5be8c4d65">
+    <name>НачальноеЗаполнение</name>
+    <synonym>
+      <key>ru</key>
+      <value>Начальное заполнение</value>
+    </synonym>
+  </templates>
+  <commands uuid="476f21d9-c5ca-46a0-981c-51cb3ed68073">
+    <name>МастерНачальнойНастройки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Мастер начальной настройки</value>
+    </synonym>
+    <group>ActionsPanelTools</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+  </commands>
+</mdclass:DataProcessor>

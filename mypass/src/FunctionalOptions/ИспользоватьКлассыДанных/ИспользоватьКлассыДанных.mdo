@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FunctionalOption xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bae55a21-b254-4ebf-97f4-9485ba9ba0b2">
+  <name>ИспользоватьКлассыДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать классы данных</value>
+  </synonym>
+  <location>Constant.ИспользоватьКлассыДанных</location>
+  <privilegedGetMode>true</privilegedGetMode>
+  <content>Enum.КлассыДанных</content>
+  <content>Document.ЭкземплярДоступа.Attribute.КлассДанных</content>
+  <content>InformationRegister.МоиПароли.Attribute.КлассДанных</content>
+</mdclass:FunctionalOption>

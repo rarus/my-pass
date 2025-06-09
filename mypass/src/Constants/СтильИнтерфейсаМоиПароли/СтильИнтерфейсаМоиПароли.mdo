@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5da36b16-1179-448a-b2e1-316e7e246a4f">
+  <producedTypes>
+    <managerType typeId="e2320d51-0335-4a9f-9318-aa954c0dbc03" valueTypeId="4b894c3e-b78e-431e-ae2c-d52fba2d8e87"/>
+    <valueManagerType typeId="b6616440-6e23-41f8-aa77-05cb174a6ef3" valueTypeId="b111907e-def7-4a46-99e9-5bf91d134df1"/>
+    <valueKeyType typeId="16a22dc7-49a2-4271-8650-2dc1d472edd0" valueTypeId="eb82f1af-4ac4-44ae-94b8-ad7ebfb143da"/>
+  </producedTypes>
+  <name>СтильИнтерфейсаМоиПароли</name>
+  <synonym>
+    <key>ru</key>
+    <value>Стиль интерфейса &quot;Мои пароли&quot;</value>
+  </synonym>
+  <type>
+    <types>EnumRef.СтилиИнтерфейсаМоиПароли</types>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

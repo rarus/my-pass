@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="db163845-c66f-41d8-a59f-51ee01878c46">
+  <name>МоиПаролиСортировкаПоУбыванию</name>
+  <synonym>
+    <key>ru</key>
+    <value>Мои пароли - сортировка по убыванию</value>
+  </synonym>
+</mdclass:CommonPicture>

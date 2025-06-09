@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="16e0fabb-92e7-4f52-8d16-6c828867d277">
+  <name>ЦентрМониторингаОтраслевойГлобальный</name>
+  <synonym>
+    <key>ru</key>
+    <value>Центр мониторинга отраслевой (глобальный)</value>
+  </synonym>
+  <global>true</global>
+  <clientManagedApplication>true</clientManagedApplication>
+</mdclass:CommonModule>

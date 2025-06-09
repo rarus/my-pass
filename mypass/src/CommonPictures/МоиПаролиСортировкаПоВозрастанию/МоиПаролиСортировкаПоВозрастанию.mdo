@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a44a77ad-3566-4eca-a0a7-8f7d3aff6266">
+  <name>МоиПаролиСортировкаПоВозрастанию</name>
+  <synonym>
+    <key>ru</key>
+    <value>Мои пароли - сортировка по возрастанию</value>
+  </synonym>
+  <availabilityForChoice>true</availabilityForChoice>
+  <availabilityForAppearance>true</availabilityForAppearance>
+</mdclass:CommonPicture>

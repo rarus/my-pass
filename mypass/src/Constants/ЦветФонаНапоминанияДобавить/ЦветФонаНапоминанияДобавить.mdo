@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bbf01678-1819-4a0c-b7b5-ff4d4eceb1b1">
+  <producedTypes>
+    <managerType typeId="c8656baa-d53f-4ebf-a75c-7b745f0d369f" valueTypeId="6c9703f4-3924-48cb-8147-ded7384f3529"/>
+    <valueManagerType typeId="5f538dd1-f8c9-4e03-a852-66b690aee846" valueTypeId="b4a91325-0328-42a4-b419-e5ec33e0d936"/>
+    <valueKeyType typeId="2580ce5b-e53a-4a31-b30f-2fb1f4dea261" valueTypeId="e1e85a55-3e28-4d26-a06f-adfb65638fd5"/>
+  </producedTypes>
+  <name>ЦветФонаНапоминанияДобавить</name>
+  <synonym>
+    <key>ru</key>
+    <value>Цвет фона напоминания (добавить)</value>
+  </synonym>
+  <type>
+    <types>ValueStorage</types>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

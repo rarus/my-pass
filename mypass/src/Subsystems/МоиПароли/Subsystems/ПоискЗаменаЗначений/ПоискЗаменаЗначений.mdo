@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="51c2b50e-a06b-4794-8d2f-6f7dd8b78d45">
+  <name>ПоискЗаменаЗначений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Поиск замена значений</value>
+  </synonym>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>892c056a-646e-41f3-9e70-d464035aaf96</content>
+  <content>bb254cf6-3777-404c-bb75-44b06501c0cf</content>
+  <content>DataProcessor.ПоискЗаменаЗначений</content>
+  <content>CommonModule.ПоискЗаменаЗначенийСервер</content>
+  <parentSubsystem>Subsystem.МоиПароли</parentSubsystem>
+</mdclass:Subsystem>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi">
+  <subsystemsVisibility>
+    <visibilityFragments>
+      <subsystem>Subsystem.МоиПароли</subsystem>
+      <visible/>
+    </visibilityFragments>
+  </subsystemsVisibility>
+  <subsystemsOrder>
+    <subsystems>Subsystem.МоиПароли</subsystems>
+    <subsystems>Subsystem.Администрирование</subsystems>
+    <subsystems>Subsystem.УдалитьПередРЕЛИЗОМ_1_0_2</subsystems>
+  </subsystemsOrder>
+</cmi:CommandInterface>

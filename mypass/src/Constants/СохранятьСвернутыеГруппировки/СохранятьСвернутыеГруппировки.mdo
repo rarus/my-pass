@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e3040c8a-9fde-4534-9131-6f6c38b385e7">
+  <producedTypes>
+    <managerType typeId="32e7c1df-73c2-461a-8746-29aa24663d7b" valueTypeId="c401e72f-da93-4565-b753-f6f7910fdef9"/>
+    <valueManagerType typeId="8926fa31-afc1-4b9e-84af-30edd1690a69" valueTypeId="63bb4f67-0814-457f-a143-f0bd93204e41"/>
+    <valueKeyType typeId="a24ddd99-4dc2-4356-9e98-9f651c9791b5" valueTypeId="75a69f90-4074-4142-9f38-3033b0fdde7b"/>
+  </producedTypes>
+  <name>СохранятьСвернутыеГруппировки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сохранять свернутые группировки</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

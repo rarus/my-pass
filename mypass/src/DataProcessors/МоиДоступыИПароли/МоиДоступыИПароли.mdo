@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ba3fa8f3-7610-4d67-98fd-e2514284b6a2">
+  <producedTypes>
+    <objectType typeId="e6d354b2-c1be-4f23-a33a-1dea68c0ac4a" valueTypeId="246c6c12-376d-4ba0-ae89-899909159746"/>
+    <managerType typeId="b5365c19-6b1f-4ced-8565-29b4c027ef35" valueTypeId="09067afa-6f32-4879-ab13-094b0563e0aa"/>
+  </producedTypes>
+  <name>МоиДоступыИПароли</name>
+  <synonym>
+    <key>ru</key>
+    <value>Мои доступы и пароли</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.МоиДоступыИПароли.Form.Форма_СовременныйСтиль</defaultForm>
+  <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <explanation>
+    <key>ru</key>
+    <value>Рабочее место предназначено для управления хранением паролей и различных доступов</value>
+  </explanation>
+  <forms uuid="e3b8932e-d90d-4aaf-b564-63da499dce85">
+    <name>Форма_СовременныйСтиль</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма (современный стиль)</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="203920a6-2ef1-4105-bae7-b7cc1b344b15">
+    <name>Форма_КлассическийСтиль</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма (классический стиль)</value>
+    </synonym>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="b5f4b690-5d34-4b4d-8133-6981681b3805">
+    <name>ФормаНастроек_СовременныйСтиль</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма настроек (современный стиль)</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="222ed2b8-d343-4eef-ad64-80923eead84d">
+    <name>ФормаНастроек_КлассическийСтиль</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма настроек (классический стиль)</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="f5550797-c730-4f21-b54e-906f1663f936">
+    <name>ФормаСкачивания</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма скачивания</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="cbdcf93d-0be2-4fd9-b8b7-7a3f5d358a9f">
+    <name>ОПродукте</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация о программном продукте</value>
+    </synonym>
+    <includeHelpInContents>true</includeHelpInContents>
+    <help>
+      <pages>
+        <lang>ru</lang>
+      </pages>
+    </help>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <commands uuid="42c494c2-b58a-425a-9159-fb56e69b65e1">
+    <name>МоиДоступыИПароли</name>
+    <synonym>
+      <key>ru</key>
+      <value>Мои доступы и пароли</value>
+    </synonym>
+    <group>NavigationPanelImportant</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+  </commands>
+</mdclass:DataProcessor>

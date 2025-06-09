@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="40872fc7-9f8c-4b9c-8244-5e8331665ce7">
+  <producedTypes>
+    <managerType typeId="1039d767-da8f-48aa-87cd-c182ffed5de2" valueTypeId="c9139a3c-4803-4d47-b529-2515cc35b4cc"/>
+    <valueManagerType typeId="7a90f593-d0d6-4728-8c51-f424da5ac032" valueTypeId="184fdeda-75e3-4dd4-8ca5-c159ba3644ba"/>
+    <valueKeyType typeId="e5fef850-6334-4e7c-bc81-7a66e68b60d2" valueTypeId="a8afbc24-d09d-4b93-9227-a631839d016b"/>
+  </producedTypes>
+  <name>РежимЗапускаПриложенияРабочееМесто</name>
+  <synonym>
+    <key>ru</key>
+    <value>Режим запуска приложения &quot;Рабочее место&quot;</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <format>
+    <key>ru</key>
+    <value>БЛ=Обычный; БИ='Рабочее место'</value>
+  </format>
+  <editFormat>
+    <key>ru</key>
+    <value>БЛ=Обычный; БИ='Рабочее место'</value>
+  </editFormat>
+  <toolTip>
+    <key>ru</key>
+    <value>После внесения изменений требуется перезапустить 1С:Предприятие</value>
+  </toolTip>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <quickChoice>Use</quickChoice>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

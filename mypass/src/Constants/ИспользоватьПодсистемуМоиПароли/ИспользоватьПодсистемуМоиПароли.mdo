@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1f41619a-27ec-4bc1-9f4e-cda587362f90">
+  <producedTypes>
+    <managerType typeId="c1aba169-6f76-4482-af93-b950143f9ea8" valueTypeId="8fa09874-6134-4fec-a7ab-8c3dd0f26b7c"/>
+    <valueManagerType typeId="ad729c86-ce79-45b8-9755-71487ae02a11" valueTypeId="bdafe590-74f1-43a2-9f5d-492cd2d88059"/>
+    <valueKeyType typeId="6c9d3e54-131b-4a36-814f-e76d079e0e1a" valueTypeId="c7f665fd-6bcf-43dd-a3a5-a5e499c34594"/>
+  </producedTypes>
+  <name>ИспользоватьПодсистемуМоиПароли</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать подсистему &quot;Мои пароли&quot;</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

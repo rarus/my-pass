@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9233322b-dfdb-4c66-91fe-1299292d40a5">
+  <name>Администрирование</name>
+  <synonym>
+    <key>ru</key>
+    <value>Администрирование</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <explanation>
+    <key>ru</key>
+    <value>Администрирование, настройка, сервисные функции</value>
+  </explanation>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.МоиПаролиАдминистрирование</picture>
+  </picture>
+  <content>DataProcessor.АктивныеПользователи</content>
+  <content>DataProcessor.БлокировкаРаботыПользователей</content>
+  <content>DataProcessor.ЖурналРегистрации</content>
+  <content>DataProcessor.НастройкиПользователей</content>
+  <content>Catalog.Пользователи</content>
+  <content>Catalog.ГруппыДоступа</content>
+  <content>Catalog.ГруппыПользователей</content>
+  <content>Catalog.ВнешниеПользователи</content>
+  <content>Catalog.ГруппыВнешнихПользователей</content>
+  <content>Catalog.ПрофилиГруппДоступа</content>
+  <content>CommonForm.ОписаниеИзмененийПрограммы</content>
+  <content>CommonPicture.РазделАдминистрирование48</content>
+  <content>DataProcessor.ПанельАдминистрированияБСП</content>
+  <content>DataProcessor.ГрупповоеИзменениеРеквизитов</content>
+  <content>DataProcessor.РезультатыОбновленияПрограммы</content>
+  <content>Report.ПрогрессОтложенногоОбновления</content>
+  <content>CommonForm.Расширения</content>
+  <content>CommonCommand.ВремяВПриложении</content>
+  <content>CommonForm.НастройкиВходаПользователей</content>
+  <content>DataProcessor.НастройкиЦентраМониторинга</content>
+  <content>CommonForm.ВосстановлениеПаролей</content>
+  <content>Report.ДлительностьОтложенногоОбновления</content>
+  <content>DataProcessor.ПоискЗаменаЗначений</content>
+  <content>DataProcessor.МастерНачальнойНастройки</content>
+  <subsystems>КонтрольРаботыПользователей</subsystems>
+</mdclass:Subsystem>

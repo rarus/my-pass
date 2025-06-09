@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FunctionalOption xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="781389e4-fade-4f00-b0eb-2710868ece61">
+  <name>ИспользоватьГруппыДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать группы данных</value>
+  </synonym>
+  <location>Constant.ИспользоватьГруппыДанных</location>
+  <privilegedGetMode>true</privilegedGetMode>
+  <content>Document.ЭкземплярДоступа.Attribute.ГруппаДанных</content>
+  <content>Catalog.ГруппыДанных</content>
+  <content>InformationRegister.МоиПароли.Attribute.ГруппаДанных</content>
+</mdclass:FunctionalOption>

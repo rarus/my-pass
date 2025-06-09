@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FunctionalOption xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="59a5696d-56bb-43ac-874a-5a5ddff47da3">
+  <name>ИспользоватьПодсистемуМоиПароли</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать подсистему &quot;Мои пароли&quot;</value>
+  </synonym>
+  <location>Constant.ИспользоватьПодсистемуМоиПароли</location>
+  <privilegedGetMode>true</privilegedGetMode>
+  <content>Subsystem.МоиПароли</content>
+  <content>CommonForm.УдалитьРежимОкнаПриложенияПоУмолчанию</content>
+  <content>CommonForm.УдалитьСтильИнтерфейсаПоУмолчанию</content>
+  <content>Constant.ИспользоватьКлассыДанных</content>
+  <content>Constant.УдалитьНеЗадаватьВопросВыбораСтиляИнтерфейса</content>
+  <content>Constant.УдалитьНеЗадаватьВопросНачальногоСозданияВидовДанных</content>
+  <content>Constant.ПоложениеНапоминанийНаФормеРабочегоМеста</content>
+  <content>Constant.УдалитьРежимОкнаПриложенияПоУмолчанию</content>
+  <content>Constant.СохранятьСвернутыеГруппировки</content>
+  <content>Constant.УдалитьСтильИнтерфейсаПоУмолчанию</content>
+  <content>Constant.ЦветТекстаЛичноеВидыДанных</content>
+  <content>Constant.ЦветТекстаЛичноеГруппыДанных</content>
+  <content>Constant.ЦветТекстаЛичноеКлассыДанных</content>
+  <content>Constant.ЦветТекстаРаботаВидыДанных</content>
+  <content>Constant.ЦветТекстаРаботаГруппыДанных</content>
+  <content>Constant.ЦветТекстаРаботаКлассыДанных</content>
+  <content>Constant.ЦветФонаНапоминания</content>
+  <content>Constant.ЦветФонаНапоминанияДобавить</content>
+  <content>Constant.ЦветФонаНапоминанияИспользоватьИзГруппыДанных</content>
+  <content>Catalog.ВидыДанных</content>
+  <content>Catalog.ДополнительныеСвойства</content>
+  <content>Document.ЭкземплярДоступа</content>
+  <content>Enum.СтатусыДанных</content>
+  <content>Enum.ТипыСобытия</content>
+  <content>Enum.УровниДоступов</content>
+  <content>Report.АнализЖурналаСобытий</content>
+  <content>DataProcessor.МоиДоступыИПароли</content>
+  <content>DataProcessor.ПоискЗаменаЗначений</content>
+  <content>ChartOfCharacteristicTypes.СвойстваВидовДанных</content>
+  <content>InformationRegister.ЖурналСобытий</content>
+  <content>InformationRegister.МоиПароли</content>
+  <content>CommonAttribute.УдалитьАвтор</content>
+  <content>CommonAttribute.УдалитьИзменен</content>
+  <content>CommonAttribute.УдалитьКомментарий</content>
+  <content>CommonAttribute.УдалитьСоздан</content>
+  <content>Constant.РежимЗапускаПриложенияРабочееМесто</content>
+  <content>Enum.СтилиИнтерфейсаМоиПароли</content>
+  <content>Constant.СтильИнтерфейсаМоиПароли</content>
+  <content>DataProcessor.МастерНачальнойНастройки</content>
+  <content>Constant.НачальнаяНастройкаМоиПаролиЗавершена</content>
+  <content>Constant.ИспользоватьГруппыДанных</content>
+</mdclass:FunctionalOption>

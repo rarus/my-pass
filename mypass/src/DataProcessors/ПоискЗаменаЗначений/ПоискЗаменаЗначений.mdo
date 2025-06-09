@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="33f17797-87cf-473d-8604-641c106de3ac">
+  <producedTypes>
+    <objectType typeId="a8fa2755-ff3f-4588-b293-ddc9a7fc77a3" valueTypeId="0d4c7fe0-858d-40c3-8db4-a1acb8c9875f"/>
+    <managerType typeId="151e66df-689a-4e04-97b7-fc447122b64e" valueTypeId="7e974968-acc3-4c3f-89fa-36216395c9e1"/>
+  </producedTypes>
+  <name>ПоискЗаменаЗначений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Поиск и замена значений</value>
+  </synonym>
+  <comment>Поиск и замена значений в ИБ</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ПоискЗаменаЗначений.Form.Форма</defaultForm>
+  <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <forms uuid="9986a607-71c1-48b2-9087-b46683d90a12">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

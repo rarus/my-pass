@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c5b3545f-fee4-4480-a6f9-a6d3c1d78e55">
+  <name>МоиПаролиОшибки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Мои пароли - ошибки</value>
+  </synonym>
+  <availabilityForChoice>true</availabilityForChoice>
+  <availabilityForAppearance>true</availabilityForAppearance>
+</mdclass:CommonPicture>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style:Style xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:style="http://g5.1c.ru/v8/dt/style">
+  <items xsi:type="style:ColorStyleItem">
+    <name>ActivityColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ЦветАктивностиМоиПароли</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>AccentColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ЦветАкцентированияМоиПароли</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>NavigationColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ЦветНавигацииМоиПароли</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>AuxiliaryNavigationColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ЦветДополнительнойНавигацииМоиПароли</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>ImportantColor</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ЦветВажногоМоиПароли</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>StyleItem.ЦветАктивностиМоиПароли</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ЦветАктивностиМоиПароли</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>StyleItem.ЦветАкцентированияМоиПароли</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ЦветАкцентированияМоиПароли</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>StyleItem.ЦветВажногоМоиПароли</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ЦветВажногоМоиПароли</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>StyleItem.ЦветДополнительнойНавигацииМоиПароли</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ЦветДополнительнойНавигацииМоиПароли</color>
+    </color>
+  </items>
+  <items xsi:type="style:ColorStyleItem">
+    <name>StyleItem.ЦветНавигацииМоиПароли</name>
+    <color xsi:type="core:ColorRef">
+      <color>Style.ЦветНавигацииМоиПароли</color>
+    </color>
+  </items>
+</style:Style>

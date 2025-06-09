@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1b4d3f0f-b6ec-4af7-8361-f757df18fc30">
+  <name>ЖурналСобытий</name>
+  <synonym>
+    <key>ru</key>
+    <value>Журнал событий</value>
+  </synonym>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Report.АнализЖурналаСобытий</content>
+  <content>Enum.ТипыСобытия</content>
+  <content>InformationRegister.ЖурналСобытий</content>
+  <parentSubsystem>Subsystem.МоиПароли</parentSubsystem>
+</mdclass:Subsystem>

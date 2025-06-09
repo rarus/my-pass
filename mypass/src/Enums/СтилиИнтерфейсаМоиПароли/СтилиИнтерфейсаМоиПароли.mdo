@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="15c7922f-733e-482f-bca3-6bc168bdab17">
+  <producedTypes>
+    <refType typeId="c0ebb7d5-97e8-4038-a6ab-f6c02df528d6" valueTypeId="d9a4fb7b-1862-4504-948c-1ad000fec2eb"/>
+    <listType typeId="27b9158f-391c-4cc2-b9a5-ed5d6c6adde8" valueTypeId="02c6e857-de3e-4e8f-b34d-f14a5ab92a46"/>
+    <managerType typeId="24db96f2-5487-44a4-936f-55b51586392f" valueTypeId="577bfd8a-1dfd-4eb3-83e7-58876ed51507"/>
+  </producedTypes>
+  <name>СтилиИнтерфейсаМоиПароли</name>
+  <synonym>
+    <key>ru</key>
+    <value>Стили интерфейса &quot;Мои пароли&quot;</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="7a7e0722-055d-4760-a6ef-3b62c10fff4c">
+    <name>Современный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Современный</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="93f4ecdd-fad9-452d-b5d1-8dec382a2558">
+    <name>Классический</name>
+    <synonym>
+      <key>ru</key>
+      <value>Классический</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
