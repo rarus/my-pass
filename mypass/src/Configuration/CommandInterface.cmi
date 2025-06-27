@@ -9,6 +9,5 @@
   <subsystemsOrder>
     <subsystems>Subsystem.МоиПароли</subsystems>
     <subsystems>Subsystem.Администрирование</subsystems>
-    <subsystems>Subsystem.УдалитьПередРЕЛИЗОМ_1_0_2</subsystems>
   </subsystemsOrder>
 </cmi:CommandInterface>

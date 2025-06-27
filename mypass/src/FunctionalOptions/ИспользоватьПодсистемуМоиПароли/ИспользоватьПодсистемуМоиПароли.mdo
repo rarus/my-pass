@@ -8,15 +8,9 @@
   <location>Constant.ИспользоватьПодсистемуМоиПароли</location>
   <privilegedGetMode>true</privilegedGetMode>
   <content>Subsystem.МоиПароли</content>
-  <content>CommonForm.УдалитьРежимОкнаПриложенияПоУмолчанию</content>
-  <content>CommonForm.УдалитьСтильИнтерфейсаПоУмолчанию</content>
   <content>Constant.ИспользоватьКлассыДанных</content>
-  <content>Constant.УдалитьНеЗадаватьВопросВыбораСтиляИнтерфейса</content>
-  <content>Constant.УдалитьНеЗадаватьВопросНачальногоСозданияВидовДанных</content>
   <content>Constant.ПоложениеНапоминанийНаФормеРабочегоМеста</content>
-  <content>Constant.УдалитьРежимОкнаПриложенияПоУмолчанию</content>
   <content>Constant.СохранятьСвернутыеГруппировки</content>
-  <content>Constant.УдалитьСтильИнтерфейсаПоУмолчанию</content>
   <content>Constant.ЦветТекстаЛичноеВидыДанных</content>
   <content>Constant.ЦветТекстаЛичноеГруппыДанных</content>
   <content>Constant.ЦветТекстаЛичноеКлассыДанных</content>
@@ -38,10 +32,6 @@
   <content>ChartOfCharacteristicTypes.СвойстваВидовДанных</content>
   <content>InformationRegister.ЖурналСобытий</content>
   <content>InformationRegister.МоиПароли</content>
-  <content>CommonAttribute.УдалитьАвтор</content>
-  <content>CommonAttribute.УдалитьИзменен</content>
-  <content>CommonAttribute.УдалитьКомментарий</content>
-  <content>CommonAttribute.УдалитьСоздан</content>
   <content>Constant.РежимЗапускаПриложенияРабочееМесто</content>
   <content>Enum.СтилиИнтерфейсаМоиПароли</content>
   <content>Constant.СтильИнтерфейсаМоиПароли</content>

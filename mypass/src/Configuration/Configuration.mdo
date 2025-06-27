@@ -22,7 +22,7 @@
   <defaultRoles>Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</defaultRoles>
   <defaultRoles>Role.ЗапускТонкогоКлиента</defaultRoles>
   <vendor>ООО &quot;1С-Рарус&quot;</vendor>
-  <version>1.0.1.9</version>
+  <version>1.0.2.1</version>
   <updateCatalogAddress>https://rarus.ru/downloads/4458/</updateCatalogAddress>
   <includeHelpInContents>true</includeHelpInContents>
   <help>
@@ -62,7 +62,7 @@
   </vendorInformationAddress>
   <configurationInformationAddress>
     <key>ru</key>
-    <value>https://rarus.ru/instruments/</value>
+    <value>https://rarus.ru/instruments/moi-paroli/</value>
   </configurationInformationAddress>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
@@ -84,12 +84,11 @@
     </synonym>
     <languageCode>en</languageCode>
   </languages>
-  <subsystems>Subsystem.УдалитьПередРЕЛИЗОМ_1_0_2</subsystems>
-  <subsystems>Subsystem.МоиПароли</subsystems>
   <subsystems>Subsystem.Администрирование</subsystems>
+  <subsystems>Subsystem.МоиПароли</subsystems>
+  <subsystems>Subsystem.ОбъектыИсключенныхПодсистемБСП</subsystems>
   <subsystems>Subsystem.ПодключаемыеОтчетыИОбработки</subsystems>
   <subsystems>Subsystem.СтандартныеПодсистемы</subsystems>
-  <subsystems>Subsystem.ОбъектыИсключенныхПодсистемБСП</subsystems>
   <styleItems>StyleItem.ВажнаяНадписьШрифт</styleItems>
   <styleItems>StyleItem.ВычисленноеПравоДоступаЦвет</styleItems>
   <styleItems>StyleItem.ГиперссылкаЦвет</styleItems>
@@ -552,9 +551,6 @@
   <commonModules>CommonModule.МоиПаролиКлиент</commonModules>
   <commonModules>CommonModule.МоиПаролиСервер</commonModules>
   <commonModules>CommonModule.МоиПаролиСлужебный</commonModules>
-  <commonModules>CommonModule.УдалитьУправлениеМоимиПаролямиКлиент</commonModules>
-  <commonModules>CommonModule.УдалитьУправлениеМоимиПаролями</commonModules>
-  <commonModules>CommonModule.УдалитьУправлениеДиалогомСервер</commonModules>
   <commonModules>CommonModule.НапоминанияПользователя</commonModules>
   <commonModules>CommonModule.НапоминанияПользователяВызовСервера</commonModules>
   <commonModules>CommonModule.НапоминанияПользователяГлобальный</commonModules>
@@ -659,10 +655,6 @@
   <commonModules>CommonModule.ЦентрМониторингаПовтИсп</commonModules>
   <commonModules>CommonModule.ЦентрМониторингаСлужебный</commonModules>
   <commonAttributes>CommonAttribute.ОтредактированныеПредопределенныеРеквизиты</commonAttributes>
-  <commonAttributes>CommonAttribute.УдалитьАвтор</commonAttributes>
-  <commonAttributes>CommonAttribute.УдалитьИзменен</commonAttributes>
-  <commonAttributes>CommonAttribute.УдалитьКомментарий</commonAttributes>
-  <commonAttributes>CommonAttribute.УдалитьСоздан</commonAttributes>
   <exchangePlans>ExchangePlan.ОбновлениеИнформационнойБазы</exchangePlans>
   <webServices>WebService.InterfaceVersion</webServices>
   <webServices>WebService.RemoteControl</webServices>
@@ -778,8 +770,6 @@
   <constants>Constant.КоличествоПотоковОбновленияИнформационнойБазы</constants>
   <constants>Constant.НастройкиВходаПользователей</constants>
   <constants>Constant.НачальнаяНастройкаМоиПаролиЗавершена</constants>
-  <constants>Constant.УдалитьНеЗадаватьВопросНачальногоСозданияВидовДанных</constants>
-  <constants>Constant.УдалитьНеЗадаватьВопросВыбораСтиляИнтерфейса</constants>
   <constants>Constant.НеИспользоватьРазделениеПоОбластямДанных</constants>
   <constants>Constant.ОграничиватьДоступНаУровнеЗаписей</constants>
   <constants>Constant.ОграничиватьДоступНаУровнеЗаписейУниверсально</constants>
@@ -793,14 +783,12 @@
   <constants>Constant.ПоследнееОбновлениеДоступа</constants>
   <constants>Constant.ПоложениеНапоминанийНаФормеРабочегоМеста</constants>
   <constants>Constant.РегистрироватьПоказателиСерверныхОповещений</constants>
-  <constants>Constant.УдалитьРежимОкнаПриложенияПоУмолчанию</constants>
   <constants>Constant.РежимЗапускаПриложенияРабочееМесто</constants>
   <constants>Constant.СведенияОБлокируемыхОбъектах</constants>
   <constants>Constant.СведенияОбОбновленииИБ</constants>
   <constants>Constant.СостояниеОтправкиСерверныхОповещений</constants>
   <constants>Constant.СохранятьСвернутыеГруппировки</constants>
   <constants>Constant.СтандартныеПодсистемыВАвтономномРежиме</constants>
-  <constants>Constant.УдалитьСтильИнтерфейсаПоУмолчанию</constants>
   <constants>Constant.СтильИнтерфейсаМоиПароли</constants>
   <constants>Constant.УдалитьНастройкиВходаПользователей</constants>
   <constants>Constant.ЦветТекстаЛичноеВидыДанных</constants>
@@ -842,26 +830,20 @@
   <commonForms>CommonForm.СравнениеТабличныхДокументов</commonForms>
   <commonForms>CommonForm.ФормаВыбораЦвета</commonForms>
   <commonForms>CommonForm.ФормаВыбораШрифта</commonForms>
-  <commonForms>CommonForm.УдалитьРежимОкнаПриложенияПоУмолчанию</commonForms>
-  <commonForms>CommonForm.УдалитьСтильИнтерфейсаПоУмолчанию</commonForms>
   <catalogs>Catalog.ВерсииРасширений</catalogs>
   <catalogs>Catalog.ВидыДанных</catalogs>
   <catalogs>Catalog.ВнешниеПользователи</catalogs>
   <catalogs>Catalog.ГруппыВнешнихПользователей</catalogs>
   <catalogs>Catalog.ГруппыДанных</catalogs>
   <catalogs>Catalog.ГруппыДоступа</catalogs>
-  <catalogs>Catalog.УдалитьГруппыИсполнителейЗадач</catalogs>
   <catalogs>Catalog.ГруппыПользователей</catalogs>
-  <catalogs>Catalog.УдалитьДополнительныеОтчетыИОбработки</catalogs>
   <catalogs>Catalog.ДополнительныеСвойства</catalogs>
   <catalogs>Catalog.ИдентификаторыОбъектовМетаданных</catalogs>
   <catalogs>Catalog.ИдентификаторыОбъектовРасширений</catalogs>
   <catalogs>Catalog.КлючиДоступа</catalogs>
   <catalogs>Catalog.НаборыГруппДоступа</catalogs>
-  <catalogs>Catalog.УдалитьПапкиФайлов</catalogs>
   <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.ПрофилиГруппДоступа</catalogs>
-  <catalogs>Catalog.УдалитьУчетныеЗаписиЭлектроннойПочты</catalogs>
   <documents>Document.ЭкземплярДоступа</documents>
   <enums>Enum.ДополнительныеЗначенияДоступа</enums>
   <enums>Enum.КлассыДанных</enums>
@@ -959,5 +941,4 @@
   <informationRegisters>InformationRegister.ТаблицыГруппДоступа</informationRegisters>
   <informationRegisters>InformationRegister.ФиксацияОбработкиДанныхОбработчиками</informationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.СвойстваВидовДанных</chartsOfCharacteristicTypes>
-  <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.УдалитьДополнительныеРеквизитыИСведения</chartsOfCharacteristicTypes>
 </mdclass:Configuration>

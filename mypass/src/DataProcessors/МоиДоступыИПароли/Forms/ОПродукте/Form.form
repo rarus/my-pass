@@ -799,11 +799,11 @@
       <name>ГруппаБиблиотека</name>
       <id>59</id>
       <items xsi:type="form:Decoration">
-        <name>БиблиоткаНадпись</name>
+        <name>БиблиотекаНадпись</name>
         <id>61</id>
         <title>
           <key>ru</key>
-          <value>Инструмент распространяется &quot;как есть&quot; в составе проекта &lt;link https://rarus.ru/Instruments/>Инструменты 1С-Рарус&lt;/>.</value>
+          <value>Инструмент распространяется &quot;как есть&quot; в составе проекта &lt;link https://rarus.ru/instruments/>Инструменты 1С-Рарус&lt;/>.</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -811,7 +811,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>БиблиоткаНадписьРасширеннаяПодсказка</name>
+          <name>БиблиотекаНадписьРасширеннаяПодсказка</name>
           <id>63</id>
           <type>Label</type>
           <autoMaxWidth>true</autoMaxWidth>
@@ -821,7 +821,7 @@
           </extInfo>
         </extendedTooltip>
         <contextMenu>
-          <name>БиблиоткаНадписьКонтекстноеМеню</name>
+          <name>БиблиотекаНадписьКонтекстноеМеню</name>
           <id>62</id>
           <autoFill>true</autoFill>
         </contextMenu>
