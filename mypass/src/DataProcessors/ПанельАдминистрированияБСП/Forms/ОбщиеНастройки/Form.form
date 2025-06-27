@@ -1949,27 +1949,21 @@
                   <key>ru</key>
                   <value>Базовая подпись (CAdES-BES)</value>
                 </presentation>
-                <value xsi:type="core:ReferenceValue">
-                  <value>102412a6-a3fb-47f1-840c-c7c3b4ad1d4d.d0d90cbf-21fc-47cb-8e1c-549e67a1bf0c</value>
-                </value>
+                <value xsi:type="core:ReferenceValue"/>
               </choiceList>
               <choiceList>
                 <presentation>
                   <key>ru</key>
                   <value>Подпись с меткой доверенного времени (CAdES-T)</value>
                 </presentation>
-                <value xsi:type="core:ReferenceValue">
-                  <value>102412a6-a3fb-47f1-840c-c7c3b4ad1d4d.cf48ae02-ecb0-4db9-92da-585f89cddb70</value>
-                </value>
+                <value xsi:type="core:ReferenceValue"/>
               </choiceList>
               <choiceList>
                 <presentation>
                   <key>ru</key>
                   <value>Архивная подпись (CAdES-A)</value>
                 </presentation>
-                <value xsi:type="core:ReferenceValue">
-                  <value>102412a6-a3fb-47f1-840c-c7c3b4ad1d4d.8bf95fa7-1067-45b3-82ea-286192f97e06</value>
-                </value>
+                <value xsi:type="core:ReferenceValue"/>
               </choiceList>
             </extInfo>
           </items>

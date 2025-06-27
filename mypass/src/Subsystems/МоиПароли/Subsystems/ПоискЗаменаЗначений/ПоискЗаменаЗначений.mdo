@@ -6,8 +6,6 @@
     <value>Поиск замена значений</value>
   </synonym>
   <includeInCommandInterface>true</includeInCommandInterface>
-  <content>892c056a-646e-41f3-9e70-d464035aaf96</content>
-  <content>bb254cf6-3777-404c-bb75-44b06501c0cf</content>
   <content>DataProcessor.ПоискЗаменаЗначений</content>
   <content>CommonModule.ПоискЗаменаЗначенийСервер</content>
   <parentSubsystem>Subsystem.МоиПароли</parentSubsystem>

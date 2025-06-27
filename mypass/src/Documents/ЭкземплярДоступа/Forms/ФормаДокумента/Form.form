@@ -1653,13 +1653,13 @@
   <commandInterface>
     <navigationPanel>
       <cmiFragmentRecord>
-        <command>2:cdcbbea1-c59c-42c7-aedf-094a4aa23d27</command>
+        <command>0</command>
         <userVisible>
           <common>true</common>
         </userVisible>
       </cmiFragmentRecord>
       <cmiFragmentRecord>
-        <command>3:cdcbbea1-c59c-42c7-aedf-094a4aa23d27</command>
+        <command>0</command>
         <userVisible/>
       </cmiFragmentRecord>
     </navigationPanel>

@@ -10,18 +10,13 @@
   </synonym>
   <comment>Типы значений и групп значений</comment>
   <type>
-    <types>CatalogRef.УдалитьПапкиФайлов</types>
     <types>CatalogRef.ВнешниеПользователи</types>
     <types>CatalogRef.КлючиДоступа</types>
     <types>CatalogRef.ИдентификаторыОбъектовРасширений</types>
     <types>CatalogRef.ГруппыВнешнихПользователей</types>
     <types>CatalogRef.ГруппыПользователей</types>
     <types>EnumRef.ДополнительныеЗначенияДоступа</types>
-    <types>ChartOfCharacteristicTypesRef.УдалитьДополнительныеРеквизитыИСведения</types>
-    <types>CatalogRef.УдалитьДополнительныеОтчетыИОбработки</types>
     <types>CatalogRef.Пользователи</types>
-    <types>CatalogRef.УдалитьГруппыИсполнителейЗадач</types>
-    <types>CatalogRef.УдалитьУчетныеЗаписиЭлектроннойПочты</types>
     <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
   </type>
 </mdclass:DefinedType>

@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>Мои пароли</value>
   </synonym>
-  <comment>1.0.1.9</comment>
+  <comment>1.0.2.1</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <picture xsi:type="core:PictureRef">

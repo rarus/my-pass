@@ -9,9 +9,6 @@
     <value>Значение доступа объект</value>
   </synonym>
   <type>
-    <types>CatalogObject.УдалитьУчетныеЗаписиЭлектроннойПочты</types>
-    <types>ChartOfCharacteristicTypesObject.УдалитьДополнительныеРеквизитыИСведения</types>
-    <types>CatalogObject.УдалитьДополнительныеОтчетыИОбработки</types>
     <types>CatalogObject.ИдентификаторыОбъектовМетаданных</types>
   </type>
 </mdclass:DefinedType>
